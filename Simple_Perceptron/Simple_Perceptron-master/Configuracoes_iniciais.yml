@@ -1,0 +1,13 @@
+# Se a base 'Iris' for escolhida, alterar o arquivo irisConfiguration.yml,
+# com base nas configurações desejadas
+
+# chosen_base: 'Iris' ou 'Portas Logicas';
+# realizations: Número máximo de realizações;
+# numero_epocas: Número máximo de épocas;
+# taxa_aprendizado: Taxa de aprendizado;
+# test_size: Porcentagem da base de teste.
+# realization_choose: indica o critério de escolha da melhor realização: 1 para a melhor e 2 para a mais próxima da acurácia;
+
+numero_epocas: 300
+taxa_aprendizado: 0.1
+realizacao: 20
